@@ -1,0 +1,17 @@
+p{
+    color: red;
+    letter-spacing: 2px;
+    font-size: 15px;
+}
+.mobilenet{
+    letter-spacing: 2px;
+}
+.google_lens{
+    letter-spacing: 2px;
+}
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
